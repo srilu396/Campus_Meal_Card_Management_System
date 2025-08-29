@@ -396,13 +396,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🎥 Live Demo
 
 Experience the **Campus Meal Card Management System** in action!  
-This demo video walks through the key features of the platform, including:  
-- Student card recharge & QR code payments  
-- Cashier’s fast Point-of-Sale process  
-- Manager’s analytics & approval workflows  
-- Admin’s system-wide monitoring  
+This demo video showcases:  
+- 🔑 Student login and meal card management  
+- 💳 Recharge requests and QR code payments  
+- 💰 Cashier’s point-of-sale flow  
+- 📊 Manager analytics dashboard  
+- 👑 Admin system overview  
 
-👉 [Click here to watch the Live Demo]("C:\Users\sri vijaya lakshmi\Downloads\Untitled video - Made with Clipchamp.mp4")
+👉 [Click here to watch the Live Demo](https://drive.google.com/file/d/1k94SR5KtyOP01mkjCE3cyqGyhWEQ5Hyk/view?usp=drivesdk)
+
+
 
 ## 📞 Support
 
