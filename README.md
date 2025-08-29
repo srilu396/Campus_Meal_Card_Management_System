@@ -393,9 +393,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **DevOps Engineer**: Deployment, CI/CD, Infrastructure
 - **Product Manager**: Requirements, Testing, Documentation
 
+## 🎥 Live Demo
+
+Experience the **Campus Meal Card Management System** in action!  
+This demo video walks through the key features of the platform, including:  
+- Student card recharge & QR code payments  
+- Cashier’s fast Point-of-Sale process  
+- Manager’s analytics & approval workflows  
+- Admin’s system-wide monitoring  
+
+👉 [Click here to watch the Live Demo]("C:\Users\sri vijaya lakshmi\Downloads\Untitled video - Made with Clipchamp.mp4")
+
 ## 📞 Support
 
-For support, email support@campuscard.edu or create an issue in the GitHub repository.
+For support, email srilunagulapalli396@gmail.com or create an issue in the GitHub repository.
 
 ---
 
