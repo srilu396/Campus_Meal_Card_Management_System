@@ -1,4 +1,4 @@
-<img width="1895" height="914" alt="Screenshot 2025-08-28 225650" src="https://github.com/user-attachments/assets/23e17d64-3432-4ec0-a123-94765f1824ee" /># 🍽️ Campus Meal Card Management System
+# 🍽️ Campus Meal Card Management System
 
 A comprehensive digital meal card management system for university campuses, built with React, Node.js, and modern web technologies.
 
@@ -16,7 +16,7 @@ A comprehensive digital meal card management system for university campuses, bui
 
 The Campus Meal Card Management System transforms traditional cash-based cafeteria transactions into a modern, digital experience. Students receive meal cards that can be recharged and used for purchases, while different user roles (Admin, Manager, Cashier, Student) have tailored dashboards for their specific needs.
 
-![Uploading Screenshot 2025-08-28 225650.png…]()
+<img width="1895" height="914" alt="Screenshot 2025-08-28 225650" src="https://github.com/user-attachments/assets/23e17d64-3432-4ec0-a123-94765f1824ee" />
 
 
 ## ✨ Features
